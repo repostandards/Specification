@@ -3,7 +3,7 @@
 ---
 
 * Authors: Jamie Bishop
-* Approvers: Coolstar
+* Approvers: CoolStar
 * Implementation Date: **December 29, 2018**
 
 ---
